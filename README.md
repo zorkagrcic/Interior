@@ -1,31 +1,31 @@
 # Interior
 
-Interior is a backend web application project built using Laravel and MySQL.
+This is a backend web application built with Laravel and MySQL, featuring a simple blogging platform with an admin panel.
 
 ## Features
 
-- User registration and login
+Admin Panel:
+
 - Create, edit, and delete blog posts
-- Filtering by category
-- Adding comments on posts
-- Dynamic post listing
-- Responsive UI using Bootstrap
-- Database management with MySQL and phpMyAdmin
+
+User Features:
+
+- User registration and login
+- Browse and search blog posts
+- Filter blog posts by category
+- Comment on posts
 
 ## Technologies
 
-- HTML5
-- CSS3
-- Bootstrap
+- PHP, Laravel
+- MySQL, phpMyAdmin
+- HTML5, CSS3, Bootstrap
 - JavaScript
-- PHP
-- Laravel
-- MySQL
 - Git/GitHub
 
 
 ## Description
 
-This project simulates a blogging platform where users can register, log in, browse all posts and comment.
+This project simulates a real blogging platform. Admins manage posts and moderate content, while users can register, log in, read posts, search for content, and leave comments.
 
-The focus of the project is on clean code, structured backend logic, and responsive design.
+The focus is on clean backend logic, dynamic content handling, responsive UI, and user interaction.
